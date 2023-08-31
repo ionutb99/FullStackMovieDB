@@ -2,7 +2,7 @@
 
 The FullStack Movie Database (MovieDB) is a web application that allows users to explore, search, and manage information about movies. Users can browse through a collection of movies, view details, and contribute by adding new movies or reviews. The app provides a platform for movie enthusiasts to connect and share their opinions.
 
-<img src="./frontend/src/assets/img8.png" alt="App Screenshot">
+<img src="./img8.png" alt="App Screenshot">
 
 # Features
 
